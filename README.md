@@ -3,4 +3,4 @@
 Bilqis Sherif
 
 website linke 
-https://dashboard.heroku.com/apps/web-development-assingment-3/deploy/github
+https://web-development-assingment-3.herokuapp.com/
